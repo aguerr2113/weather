@@ -1,0 +1,9 @@
+Step 1 create an account on openweathermap and API key
+
+Step2 Accessing confidential information from windows env
+
+Step3 Creating API request from Python
+
+Step4 Data Interpretation
+
+Step5 Display Result
